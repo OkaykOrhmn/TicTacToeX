@@ -34,5 +34,10 @@ Perfect for quick brain exercises or engaging in epic duels with friends, this a
 Your next move could soar above the
 rest—download now and take the classic tic-tac-toe to new heights!
 
+### DarkMode Application:
 ![Untitled-1@0 5x](https://github.com/OkaykOrhmn/TicTacToeX/assets/106100553/30a9d1fb-83c3-4b14-9df7-5b028e663270)
+
+### LightMode Application:
+![tictactoex-demo-light@0 5x](https://github.com/OkaykOrhmn/TicTacToeX/assets/106100553/11f93b43-057a-4578-9943-78c371ab45f4)
+
 
